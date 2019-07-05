@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/reactotron/reactotron](https://badges.gitter.im/reactotron/reactotron.svg)](https://gitter.im/reactotron/reactotron?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![npm module](https://badge.fury.io/js/reactotron.svg)](https://www.npmjs.org/package/reactotron)
+[![npm module](https://badge.fury.io/js/reactotron.svg)](https://www.npmjs.org/package/reactotron) [![Greenkeeper badge](https://badges.greenkeeper.io/admmasters/reactotron-fork.svg)](https://greenkeeper.io/)
 
 Control, monitor, and instrument your React DOM and React Native apps.  From the comfort of your TTY.
 

@@ -38,7 +38,7 @@
     "moment": "^2.12.0",
     "ramda": "^0.21.0",
     "ramdasauce": "^1.0.0",
-    "socket.io": "^1.4.5",
+    "socket.io": "^2.5.0",
     "socket.io-client": "^1.4.5",
     "strman": "^1.0.1"
   },
